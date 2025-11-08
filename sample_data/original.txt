@@ -1,0 +1,4 @@
+This is the original text for plagiarism checking.
+It contains several sentences that will be compared against submissions.
+The quick brown fox jumps over the lazy dog.
+Plagiarism detection is important in academic settings.

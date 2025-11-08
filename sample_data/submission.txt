@@ -1,0 +1,4 @@
+This is a student's submission for plagiarism detection.
+It contains some sentences similar to the original text.
+The quick brown fox jumps over the lazy dog.
+Academic integrity is crucial in educational environments.

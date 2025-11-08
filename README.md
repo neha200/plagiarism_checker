@@ -41,3 +41,9 @@ plagiarism_checker/
 - Place your reference text in `sample_data/original.txt`.
 - Place the submission text in `sample_data/submission.txt`.
 - The app will display similarity and plagiarism prediction.
+
+## Outputs
+<img width="468" height="272" alt="image" src="https://github.com/user-attachments/assets/834b3202-6d7c-49d4-8ab7-b83ae64c47da" />
+<img width="468" height="272" alt="image" src="https://github.com/user-attachments/assets/1be03fea-0e59-4bd6-ac98-097e6e524f8a" />
+
+
